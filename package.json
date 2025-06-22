@@ -24,9 +24,7 @@
     "mongoose": "^8.16.0",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1",
-    "zod": "^3.25.67"
-  },
-  "devDependencies": {
+    "zod": "^3.25.67",
     "@types/axios": "^0.9.36",
     "@types/bcrypt": "^5.0.2",
     "@types/cors": "^2.8.19",
@@ -35,6 +33,8 @@
     "@types/jsonwebtoken": "^9.0.10",
     "@types/mongoose": "^5.11.96",
     "@types/node": "^24.0.3",
+  },
+  "devDependencies": {
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.8.3"
   }
