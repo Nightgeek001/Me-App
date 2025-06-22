@@ -27,6 +27,7 @@
     "zod": "^3.25.67"
   },
   "devDependencies": {
+    "@types/axios": "^0.9.36",
     "@types/bcrypt": "^5.0.2",
     "@types/cors": "^2.8.19",
     "@types/dotenv": "^6.1.1",
